@@ -4,7 +4,7 @@
 - 🎓 I’m a final year Computer Science undergraduate at Singapore Management University graduating in May 2023.
 - 🇮🇳 I was born and raised in Jaipur, India 
 - ⚽ I'm a huge football and Manchester United fan, and have been supporting the club since 2013
-- 🌍 I love to travel, and have travelled to France, Austria, Switzerland, Greece, Turkey, Thailand, Indonesia
+- 🌍 I love to travel, and have travelled to France, Austria, Switzerland, Greece, Turkey, Thailand and Indonesia
 
 ##### 💼 WORK EXPERIENCE
 - I've worked at
