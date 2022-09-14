@@ -15,7 +15,7 @@
 - I have significant experience in
   - Full stack web development 
   - Android development 
-  - Deep learning and computer vision.
+  - Deep learning and computer vision
   
 ##### ⬆ WHAT AM I UPTO CURRENTLY
   - 👨‍💻 Actively looking for fresh graduate software engineering opportunities for 2023
