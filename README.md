@@ -1,6 +1,6 @@
 ### Hi there, I'm Harshit Jain 👋
-Website: https://harshitjain9.github.io/
-LinkedIn: https://www.linkedin.com/in/harshit-jain-2001/
+[Website](https://harshitjain9.github.io/) |
+[LinkedIn](https://www.linkedin.com/in/harshit-jain-2001/)
 
 ##### 📖  ABOUT ME
 - 🎓 I’m a final year Computer Science undergraduate at Singapore Management University graduating in May 2023.
