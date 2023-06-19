@@ -3,7 +3,8 @@
 [LinkedIn](https://www.linkedin.com/in/harshit-jain-2001/)
 
 ##### 📖  ABOUT ME
-- 🎓 I’m a final year Computer Science undergraduate at Singapore Management University graduating in May 2023.
+- 👨‍💻 I’m working as a software engineer at Goldman Sachs in the Singapore office.
+- 🎓 I’m a Computer Science undergraduate from Singapore Management University.
 - 🇮🇳 I was born and raised in Jaipur, India 
 - ⚽ I'm a huge football and Manchester United fan, and have been supporting the club since 2013
 - 🌍 I love to travel, and have travelled to France, Austria, Switzerland, Greece, Turkey, Thailand and Indonesia
@@ -19,11 +20,6 @@
   - Android development 
   - Deep learning and computer vision
   
-##### ⬆ WHAT AM I UPTO CURRENTLY
-  - 👨‍💻 Actively looking for fresh graduate software engineering opportunities for 2023
-  - 🪴 Upskilling my knowledge and skills in Modern C++ and Operating Systems
-  - 🖥 Taking part in LeetCode contests
-
 ##### CONTACT
 - 📫 Email me at harshitj.2019@smu.edu.sg 
 
