@@ -11,7 +11,7 @@
 
 ##### 💼 WORK EXPERIENCE
 - I've worked at
-  - <b>Goldman Sachs</b> as a software engineering summer analyst (May 2022 to July 2022)
+  - <b>Goldman Sachs</b> as a software engineer (June 2023 to present) and software engineering summer analyst (May 2022 to July 2022)
   - <b>Singapore Management University</b> as a machine learning research intern (May 2021 to July 2021)
   - <b>Findmylawyer.sg</b> as a freelance full stack web developer (Oct 2020 to Jan 2021)
   - <b>Tweaking Technologies</b> as an android developer intern (May 2020 to July 2020)
