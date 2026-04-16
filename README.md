@@ -4,10 +4,10 @@
 
 ##### 📖  ABOUT ME
 - 👨‍💻 I’m working as a software engineer at Goldman Sachs in the Singapore office.
-- 🎓 I’m a Computer Science undergraduate from Singapore Management University.
+- 🎓 I’m a Computer Science grad from Singapore Management University.
 - 🇮🇳 I was born and raised in Jaipur, India 
 - ⚽ I'm a huge football and Manchester United fan, and have been supporting the club since 2013
-- 🌍 I love to travel, and have travelled to France, Austria, Switzerland, Greece, Turkey, Thailand and Indonesia
+- 🌍 I love to travel, and have travelled to France, Austria, Switzerland, Greece, Turkey, Italy, Malaysia, Thailand, Indonesia, Hong Kong, Vietnam, Philippines, Cambodia
 
 ##### 💼 WORK EXPERIENCE
 - I've worked at
@@ -15,13 +15,9 @@
   - <b>Singapore Management University</b> as a machine learning research intern (May 2021 to July 2021)
   - <b>Findmylawyer.sg</b> as a freelance full stack web developer (Oct 2020 to Jan 2021)
   - <b>Tweaking Technologies</b> as an android developer intern (May 2020 to July 2020)
-- I have significant experience in
-  - Full stack web development 
-  - Android development 
-  - Deep learning and computer vision
   
 ##### CONTACT
-- 📫 Email me at harshitj.2019@smu.edu.sg 
+- 📫 Email me at harsheetjain@gmail.com
 
 <!---
 harshitjain9/harshitjain9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
